@@ -1,0 +1,11 @@
+.GridMainContainer{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.GridContainer{
+    background-color: aqua;
+    padding: 20px;
+    gap: 30px;
+}

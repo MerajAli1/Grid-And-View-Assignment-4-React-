@@ -1,0 +1,28 @@
+.mainContainer{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: 10px;
+    max-width: 365px;
+    text-align: center;
+}
+.container{
+    border: 10px solid black;
+    background-color: aqua;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.btn-box{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 10px;
+}
+button{
+    background-color: aqua;
+    border: none;
+    padding: 10px;
+}
+
